@@ -54,6 +54,17 @@ namespace KrestikiNoliki
                 {
                     return true;
                 }
+                
+                
+            }
+
+            for (int i = 0; i < 3; i++)
+            {
+                if (buttons[0, i].Text == buttons[1, i].Text && buttons[i, 1].Text == buttons[i, 2].Text &&
+                    buttons[0, i].Text != "")
+                {
+                    return true;
+                }
             }
             return false;
         }
