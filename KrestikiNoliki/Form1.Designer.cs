@@ -173,7 +173,7 @@
             this.button10.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button10.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button10.Location = new System.Drawing.Point(14, 86);
+            this.button10.Location = new System.Drawing.Point(14, 153);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(372, 111);
             this.button10.TabIndex = 10;
